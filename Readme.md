@@ -73,7 +73,6 @@ A playable V1.0 build is available for demo purposes on multiple platforms:
 
 - Windows (for Intel64),  
 - WebGL (accessible via web browser),
-- macOS (for both Intel64 and Apple Silicon  – not tested),  
 - Linux (not tested).
 
 Download the version suitable for your system from the "Fall guin Playable Release" folder. No Unity installation is required.
