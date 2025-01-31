@@ -7,11 +7,11 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 **Fall Guin** is inspired by "Fall Guys". Players control **Pingu**, navigating through an Arctic-themed obstacle course, collecting fish, and overcoming challenges to reach the goal.
 
 ## 📸 Screenshots:
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(1).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(2).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(3).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(4).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(5).png)
+![Screenshot](https://github.com/dundd2/Y2-Game-Development-Project1-Fall-Guin/blob/main/Screenshot/SC%20(1).gif)
+![Screenshot](https://github.com/dundd2/Y2-Game-Development-Project1-Fall-Guin/blob/main/Screenshot/SC%20(2).gif)
+![Screenshot](https://github.com/dundd2/Y2-Game-Development-Project1-Fall-Guin/blob/main/Screenshot/SC%20(3).png)
+![Screenshot](https://github.com/dundd2/Y2-Game-Development-Project1-Fall-Guin/blob/main/Screenshot/SC%20(4).png)
+![Screenshot](https://github.com/dundd2/Y2-Game-Development-Project1-Fall-Guin/blob/main/Screenshot/SC%20(5).png)
 
 ## Features
 
